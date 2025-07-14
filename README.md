@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=SelamZem&label=Profile%20views&color=0e75b6&style=flat)
-
 # 👋 Hello, I'm Selam
 
 I enjoy working with numbers and solving problems 
@@ -18,10 +16,10 @@ I enjoy working with numbers and solving problems
 
 ## 🔧 Tools & Technologies
 
-| Languages  | Libraries & Frameworks                | Tools                  |
-|------------|---------------------------------------|------------------------|
-| Python 🐍  | pandas, NumPy, Flask, scikit-learn, Django | Git, VS Code, Jupyter |
-| HTML/CSS   | ASP.NET (basic projects)              | GitHub, MySQL          |
+| Languages  | Libraries & Frameworks                | Tools                              |
+|------------|---------------------------------------|----------------------------------- |
+| Python 🐍  | pandas, NumPy, Flask, scikit-learn, Django | Git, VS Code, Jupyter, MySQL |
+| HTML/CSS   | ASP.NET (basic projects)              | GitHub, Sqlite, Visual Studio      |
 
 ---
 
